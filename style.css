@@ -87,3 +87,12 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+.last-h3{
+    font-size: 60px;
+}
+.last-h5{
+    font-size: 20px;
+}
+.last-p{
+    color: grey;
+}
