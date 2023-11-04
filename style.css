@@ -1,0 +1,89 @@
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+.top-banner{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.pink-color{
+    color: rgb(190, 42, 67);
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(30deg,rgb(190, 42, 67),rgb(199, 28, 159));
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 600;
+}
+.half-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+
+}
+.half-div img{
+    width: 100%;
+    
+}
+section{
+    
+    padding-bottom: 25%;
+
+}
+.font-paragraph{
+    padding-top: 10%;
+    padding-left: 5%;
+}
+.biography{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.al-center{
+    text-align: center;
+}
+.last-work{
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.three-div{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.three-div img{
+    width: 100%;
+}
+.last-section{
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.last-div1{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.contrac{
+    text-decoration: none;
+    background-image: linear-gradient(30deg,rgb(199, 67, 89),rgb(204, 56, 169));
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: 600;
+    height: 110px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
